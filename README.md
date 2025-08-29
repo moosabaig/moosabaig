@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Moosa Baig
 
-**CyberSecurity Analyst | Security Engineer*
+**"CyberSecurity Analyst | Security Engineer"*
 
 ---
 
