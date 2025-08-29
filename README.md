@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Moosa Baig
 
-<!--
-**moosabaig/moosabaig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CyberSecurity Analyst | Security Engineer*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔒 **About Me**  
+Passionate about securing digital environments and ensuring robust cyber defense. Experienced in vulnerability testing, penetration testing, cloud security, and crafting precise documentation. Always learning, always adapting to the evolving world of cybersecurity.
+
+---
+
+🛠️ **Top Skills**
+- Vulnerability Testing
+- Penetration Testing
+- Cloud Security
+- Security Documentation
+- Risk Assessment & Mitigation
+- Incident Response
+
+---
+
+🚀 **Featured Projects**
+<!-- Add your favorite projects below! Replace these placeholders with your own repositories. -->
+- [Project Name](#) — Short description about what it is and your role.
+- [Project Name](#) — Short description about what it is and your role.
+
+---
+
+🔗 **Connect with Me**
+- [LinkedIn](https://www.linkedin.com/in/moosa-baig-868240273)
+
+---
+
+💡 **Motto**
+> Winners don't make excuses
+
+---
+
+_Thanks for visiting my profile! Let's connect and collaborate on making the digital world safer._
