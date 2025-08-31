@@ -66,14 +66,6 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
 - [Project Name](#) — Short description about what it is and your role.
 - [Project Name](#) — Short description about what it is and your role.
 
----
-
-🔗 **Connect with Me**
-<p align="center">
-  <a href="https://www.linkedin.com/in/moosa-baig-868240273" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-</p>
 
 ---
 ### 🎓 Certifications  
@@ -110,5 +102,12 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
 </table>
 
 ---
+
+🔗 **Connect with Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/moosa-baig-868240273" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 _Thanks for visiting my profile! Let's connect and collaborate on making the digital world safer._
