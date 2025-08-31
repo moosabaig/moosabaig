@@ -10,19 +10,18 @@
 </p>
 ---
 
-
+----
 ## About me
 
-<div style="font-family: Courier, monospace;">
-
+<p align="justify">
 I am a **Cybersecurity Professional** with **more than one year of hands-on experience** in **Vulnerability Assessment and Penetration Testing (VAPT)**. Skilled in identifying and exploiting security flaws across **web applications, networks, and infrastructure**, I bring practical expertise in strengthening security postures and mitigating risks.  
-
+<br><br>
 I am proficient with industry-standard tools including **Burp Suite, Nessus, Metasploit, and Nmap**, and experienced in conducting **risk assessments, developing remediation strategies, and documenting detailed test reports** to support stakeholders in understanding and mitigating risks.  
-
+<br><br>
 Passionate about staying ahead of evolving threats, I am eager to leverage my skills and knowledge to **enhance organizational security, safeguard sensitive assets, and contribute to a resilient cyber defense strategy**.  
+</p>
 
-</div>
----
+
 
 🛠️ **Top Skills**
 - Vulnerability Testing
