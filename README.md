@@ -5,7 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=How+you+doin'?" alt="Typing Banner" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Winners+don't+make+excuses" alt="Typing Banner" />
+</p>
 ---
+
 
 ## About me
 
@@ -25,11 +29,36 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
 
 ---
 ### 🛡️ Cybersecurity  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,bash" />
-  </a>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>🛠️ Tools</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,vim,bash,powershell,linux,nginx,prometheus" />
+    </td>
+    <td align="center" width="50%">
+      <b>💻 Languages</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,c,cpp,java,go,rust,php,js,ts" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>🖥️ Operating Systems</b><br><br>
+      <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,redhat,debian,kali" />
+    </td>
+    <td align="center" width="50%">
+      <b>☁️ Cloud / Platforms</b><br><br>
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,openstack,vercel,netlify" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" width="100%">
+      <b>🔐 DevSecOps</b><br><br>
+      <img src="https://skillicons.dev/icons?i=github,gitlab,githubactions,jenkins,docker,kubernetes,ansible,terraform,sonarqube,selenium" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 🚀 **Featured Projects**
@@ -47,9 +76,38 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
 </p>
 
 ---
+### 🎓 Certifications  
 
-💡 **Motto**
-> Winners don't make excuses
+<table align="center">
+  <tr>
+    <td align="center" width="200px">
+      <img src="https://img.icons8.com/color/96/comptia.png" width="60"/><br>
+      <b>CompTIA Security+</b>
+    </td>
+    <td align="center" width="200px">
+      <img src="https://img.icons8.com/color/96/hacker.png" width="60"/><br>
+      <b>CEH</b>
+    </td>
+    <td align="center" width="200px">
+      <img src="https://img.icons8.com/color/96/cyber-security.png" width="60"/><br>
+      <b>OSCP</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200px">
+      <img src="https://img.icons8.com/color/96/cloud.png" width="60"/><br>
+      <b>AWS Certified</b>
+    </td>
+    <td align="center" width="200px">
+      <img src="https://img.icons8.com/color/96/shield.png" width="60"/><br>
+      <b>CISSP</b>
+    </td>
+    <td align="center" width="200px">
+      <img src="https://img.icons8.com/color/96/azure.png" width="60"/><br>
+      <b>Azure Security</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
