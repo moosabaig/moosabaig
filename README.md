@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Winners+don't+make+excuses" alt="Typing Banner" />
 </p>
----
 
 ----
 ## About me
