@@ -74,10 +74,10 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
 ### 🎓 Certifications  
 
 <table align="center">
- <tr>
+<tr>
     <td align="center" width="200px">
       <img src="https://img.icons8.com/color/96/google-logo.png" width="60"/><br>
-      <b><a href="[assets/certificates/google-cybersecurity.pdf](https://github.com/moosabaig/Certificates/blob/main/Google%20Cybersecurity.pdf)" target="_blank">Google Cybersecurity</a></b>
+      <b><a href="https://github.com/moosabaig/Certificates/blob/main/Google%20Cybersecurity.pdf" target="_blank">Google Cybersecurity</a></b>
     </td>
     <td align="center" width="200px">
       <img src="https://img.icons8.com/color/96/hacker.png" width="60"/><br>
