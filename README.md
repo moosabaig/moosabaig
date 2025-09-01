@@ -2,11 +2,11 @@
 ---
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=How+you+doin'?" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=How+you+doin'?" alt="Typing Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Winners+don't+make+excuses" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=600&size=30&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=Winners+don't+make+excuses" alt="Typing Banner" />
 </p>
 
 ----
@@ -34,10 +34,10 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
 ### 🛡️ Cybersecurity  
 
 <table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <b>🛠️ Tools</b><br><br>
-      <img src="https://skillicons.dev/icons?i=git,vim,bash,powershell,linux,nginx,prometheus" />
+<tr>
+    <td align="center" width="200px">
+      <img src="https://img.icons8.com/color/96/google-logo.png" width="60"/><br>
+      <b><a href="YOUR_CERTIFICATE_LINK" target="_blank">Google Cybersecurity</a></b>
     </td>
     <td align="center" width="50%">
       <b>💻 Languages</b><br><br>
@@ -74,10 +74,10 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
 ### 🎓 Certifications  
 
 <table align="center">
-  <tr>
+ <tr>
     <td align="center" width="200px">
-      <img src="https://img.icons8.com/color/96/comptia.png" width="60"/><br>
-      <b>CompTIA Security+</b>
+      <img src="https://img.icons8.com/color/96/google-logo.png" width="60"/><br>
+      <b><a href="[assets/certificates/google-cybersecurity.pdf](https://github.com/moosabaig/Certificates/blob/main/Google%20Cybersecurity.pdf)" target="_blank">Google Cybersecurity</a></b>
     </td>
     <td align="center" width="200px">
       <img src="https://img.icons8.com/color/96/hacker.png" width="60"/><br>
