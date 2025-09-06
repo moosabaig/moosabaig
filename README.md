@@ -76,7 +76,7 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
 <tr>
     <td align="center" width="200px">
       <img src="https://img.icons8.com/color/96/google-logo.png" width="60"/><br>
-      <b><a href="https://github.com/moosabaig/Certificates/blob/main/Google%20Cybersecurity.pdf" target="_blank">Google Cybersecurity</a></b>
+      <b><a href="https://drive.google.com/file/d/1Ifkb7sKjSb-1ydCEwHqwqVN3Hk9_Dfey/view?usp=drive_link" target="_blank">Google Cybersecurity</a></b>
     </td>
     <td align="center" width="200px">
       <img src="https://img.icons8.com/color/96/hacker.png" width="60"/><br>
