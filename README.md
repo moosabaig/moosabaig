@@ -35,10 +35,9 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
 
 <table align="center">
 <tr>
-    <td align="center" width="200px">
-      <img src="https://img.icons8.com/color/96/google-logo.png" width="60"/><br>
-      <b><a href="YOUR_CERTIFICATE_LINK" target="_blank">Google Cybersecurity</a></b>
-    </td>
+    <td align="center" width="50%">
+      <b>🛠️ Tools</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,vim,bash,powershell,linux,nginx,prometheus" />
     <td align="center" width="50%">
       <b>💻 Languages</b><br><br>
       <img src="https://skillicons.dev/icons?i=python,c,cpp,java,go,rust,php,js,ts" />
