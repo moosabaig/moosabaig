@@ -31,15 +31,12 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
 - Incident Response
 
 ---
-### 🛡️ Cybersecurity  
+### 🛡️ Knowledge  
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
       <b>🛠️ Tools</b><br><br>
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" />
-      </a>
       <a href="https://www.vim.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="40" />
       </a>
@@ -49,14 +46,8 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
       <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
         <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="40" />
       </a>
-      <a href="https://www.linux.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" />
-      </a>
       <a href="https://www.nginx.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="40" />
-      </a>
-      <a href="https://prometheus.io/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" width="40" />
       </a>
     </td>
     <td align="center" width="50%">
@@ -69,21 +60,6 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
       </a>
       <a href="https://isocpp.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" />
-      </a>
-      <a href="https://www.java.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" />
-      </a>
-      <a href="https://golang.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" />
-      </a>
-      <a href="https://www.rust-lang.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" />
-      </a>
-      <a href="https://www.php.net/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" />
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" />
       </a>
       <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" />
@@ -102,9 +78,6 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
       <a href="https://ubuntu.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="40" />
       </a>
-      <a href="https://www.redhat.com/en" target="_blank">
-        <img src="https://skillicons.dev/icons?i=redhat" alt="Red Hat" width="40" />
-      </a>
       <a href="https://www.debian.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="40" />
       </a>
@@ -122,19 +95,6 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
       </a>
       <a href="https://cloud.google.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="40" />
-      </a>
-      <a href="https://www.heroku.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" width="40" />
-      </a>
-      <a href="https://www.openstack.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=openstack" alt="OpenStack" width="40" />
-      </a>
-      <a href="https://vercel.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" />
-      </a>
-      <a href="https://www.netlify.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="40" />
-      </a>
     </td>
   </tr>
   <tr>
@@ -146,9 +106,6 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
       <a href="https://gitlab.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="40" />
       </a>
-      <a href="https://github.com/features/actions" target="_blank">
-        <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40" />
-      </a>
       <a href="https://www.jenkins.io/" target="_blank">
         <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" />
       </a>
@@ -157,15 +114,6 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
       </a>
       <a href="https://kubernetes.io/" target="_blank">
         <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" />
-      </a>
-      <a href="https://www.ansible.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="40" />
-      </a>
-      <a href="https://www.terraform.io/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="40" />
-      </a>
-      <a href="https://www.sonarqube.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=sonarqube" alt="SonarQube" width="40" />
       </a>
       <a href="https://www.selenium.dev/" target="_blank">
         <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="40" />
