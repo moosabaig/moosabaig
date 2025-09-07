@@ -170,6 +170,31 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
 </table>
 
 ---
+## 🏅 Badges
+
+Here are some of my certifications and achievements:
+
+## 🏅 Badges
+
+Here are some of my certifications and achievements:
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/4ca64578-c964-4f33-a16b-61d4b9636c13/public_url">
+        <img src="https://raw.githubusercontent.com/moosabaig/Certificates/main/google-cybersecurity-professional-certificate-v2.png" width="150"/><br>
+        <b>Google Cybersecurity Professional Certificate</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/2f877584-935b-415b-a8ca-72ea5a2ecc48/public_url">
+        <img src="https://raw.githubusercontent.com/moosabaig/Certificates/ba946a3e7f37e5c9bc0fabc9e1e4c564c8204a46/apisec-certified-practitioner.png" width="150"/><br>
+        <b>APIsec Certified Practitioner</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 🔗 **Connect with Me**
 <p align="center">
