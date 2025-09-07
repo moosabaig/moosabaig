@@ -31,7 +31,7 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
 - Incident Response
 
 ---
-### 🛡️ Knowledge  
+## 📂 Vault of Cyber Secrets
 
 <table align="center">
   <tr>
@@ -39,9 +39,6 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
       <b>🛠️ Tools</b><br><br>
       <a href="https://www.vim.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="40" />
-      </a>
-      <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" />
       </a>
       <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
         <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="40" />
@@ -55,14 +52,11 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
       <a href="https://www.python.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" />
       </a>
+        <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" />
+      </a>
       <a href="https://en.cppreference.com/w/c/language" target="_blank">
         <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" />
-      </a>
-      <a href="https://isocpp.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" />
-      </a>
-      <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" />
       </a>
     </td>
   </tr>
