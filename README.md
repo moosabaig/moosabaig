@@ -188,9 +188,13 @@ Here are some of my certifications and achievements:
         <b>APIsec Certified Practitioner</b>
       </a>
     </td>
+    <td align="center">
+        <img src="https://github.com/moosabaig/Documents/blob/a5bcd50f4b9f9c0cd1c038274ecd281dfc2ea8e7/Cyber%20Apocalypse%20CTF%202025.jpg" width="100"/><br>
+        <b>APIsec Certified Practitioner</b>
+      </a>
+    </td>
   </tr>
 </table>
-
 
 🔗 **Connect with Me**
 <p align="center">
