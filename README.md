@@ -189,6 +189,7 @@ Here are some of my certifications and achievements:
       </a>
     </td>
     <td align="center">
+         <a href="https://drive.google.com/file/d/1GHRYNAuTg5X-r3YoyH5i_NaIu2LRzaPC/view?usp=sharing">
         <img src="https://github.com/moosabaig/Documents/blob/a5bcd50f4b9f9c0cd1c038274ecd281dfc2ea8e7/Cyber%20Apocalypse%20CTF%202025.jpg" width="100"/><br>
         <b>APIsec Certified Practitioner</b>
       </a>
