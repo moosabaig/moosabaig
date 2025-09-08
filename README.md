@@ -31,96 +31,103 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
 - Incident Response
 
 ---
+
 ## 🛡️ Cyber Operations Dashboard
+
+<p align="center">
+  <i>My toolkit for cyber operations, cloud, DevSecOps, and programming</i>
+</p>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <b>🛠️ Tools</b><br><br>
-      <div style="display: flex; gap: 10px; justify-content: center;">
-        <a href="https://www.vim.org/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="40" />
+      <h3>🛠️ Tools</h3>
+      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+        <a href="https://www.vim.org/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="45" />
         </a>
-        <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="40" />
+        <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="45" />
         </a>
-        <a href="https://www.nginx.com/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="40" />
+        <a href="https://www.nginx.com/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="45" />
         </a>
       </div>
     </td>
     <td align="center" width="50%">
-      <b>💻 Languages</b><br><br>
-      <div style="display: flex; gap: 10px; justify-content: center;">
-        <a href="https://www.python.org/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" />
+      <h3>💻 Languages</h3>
+      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+        <a href="https://www.python.org/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" />
         </a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" />
+        <a href="https://www.gnu.org/software/bash/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="45" />
         </a>
-        <a href="https://en.cppreference.com/w/c/language" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" />
+        <a href="https://en.cppreference.com/w/c/language" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=c" alt="C" width="45" />
         </a>
       </div>
     </td>
   </tr>
+  
   <tr>
     <td align="center" width="50%">
-      <b>🖥️ Operating Systems</b><br><br>
-      <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-        <a href="https://www.linux.org/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" />
+      <h3>🖥️ Operating Systems</h3>
+      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+        <a href="https://www.linux.org/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="45" />
         </a>
-        <a href="https://www.microsoft.com/en-us/windows/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" />
+        <a href="https://www.microsoft.com/en-us/windows/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="45" />
         </a>
-        <a href="https://ubuntu.com/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="40" />
+        <a href="https://ubuntu.com/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="45" />
         </a>
-        <a href="https://www.debian.org/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="40" />
+        <a href="https://www.debian.org/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="45" />
         </a>
-        <a href="https://www.kali.org/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" width="40" />
+        <a href="https://www.kali.org/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" width="45" />
         </a>
       </div>
     </td>
     <td align="center" width="50%">
-      <b>☁️ Cloud / Platforms</b><br><br>
-      <div style="display: flex; gap: 10px; justify-content: center;">
-        <a href="https://aws.amazon.com/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" />
+      <h3>☁️ Cloud / Platforms</h3>
+      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+        <a href="https://aws.amazon.com/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="45" />
         </a>
-        <a href="https://azure.microsoft.com/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" />
+        <a href="https://azure.microsoft.com/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="45" />
         </a>
-        <a href="https://cloud.google.com/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="40" />
+        <a href="https://cloud.google.com/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="45" />
         </a>
       </div>
     </td>
   </tr>
+  
   <tr>
-    <td align="center" colspan="2" width="100%">
-      <b>🔐 DevSecOps</b><br><br>
-      <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-        <a href="https://github.com/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" />
+    <td align="center" colspan="2">
+      <h3>🔐 DevSecOps</h3>
+      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+        <a href="https://github.com/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" />
         </a>
-        <a href="https://gitlab.com/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="40" />
+        <a href="https://gitlab.com/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="45" />
         </a>
-        <a href="https://www.jenkins.io/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" />
+        <a href="https://www.jenkins.io/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="45" />
         </a>
-        <a href="https://www.docker.com/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" />
+        <a href="https://www.docker.com/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" />
         </a>
-        <a href="https://kubernetes.io/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" />
+        <a href="https://kubernetes.io/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="45" />
         </a>
-        <a href="https://www.selenium.dev/" target="_blank" style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border:1px solid #ccc; border-radius:8px;">
-          <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="40" />
+        <a href="https://www.selenium.dev/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+          <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="45" />
         </a>
       </div>
     </td>
@@ -170,7 +177,9 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
 </table>
 
 ---
-## 🏅 Badges
+<h2 align="center">
+  ✨ <a href="#" style="color: #00f7ff; text-decoration: none;">Milestones & Badges</a> ✨
+</h2>
 
 Here are some of my certifications and achievements:
 
