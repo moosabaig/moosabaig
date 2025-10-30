@@ -1,7 +1,6 @@
 # 👋 Hello, I’m Moosa Baig
 ---
 <!-- Banner -->
-----
 ## About me
 
 <p align="justify">
@@ -118,14 +117,11 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
       <img src="https://img.icons8.com/color/96/google-logo.png" width="60"/><br>
       <b><a href="https://drive.google.com/file/d/1Ifkb7sKjSb-1ydCEwHqwqVN3Hk9_Dfey/view?usp=sharing" target="_blank">Google Cybersecurity</a></b>
     </td>
-    <td align="center" width="200px">
-      <img src="https://img.icons8.com/color/96/hacker.png" width="60"/><br>
-      <b>CEH</b>
-    </td>
-    <td align="center" width="200px">
-      <img src="https://img.icons8.com/color/96/cyber-security.png" width="60"/><br>
-      <b>OSCP</b>
-    </td>>
+<td align="center" width="200px">
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C95B56B0BEB58ADF98888B09283031F3C7E0AC26FEFEC028E7989408549399FC" target="_blank">
+    <img src="https://img.icons8.com/color/96/oracle-logo.png" width="60"/><br>
+    <b>Oracle Cloud Infrastructure Foundations 2025</b>
+  </a>
   </tr>
 </table>
 
