@@ -98,40 +98,13 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
       </div>
     </td>
   </tr>
-  
-  <tr>
-    <td align="center" colspan="2">
-      <h3>🔐 DevSecOps</h3>
-      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-        <a href="https://github.com/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
-          <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" />
-        </a>
-        <a href="https://gitlab.com/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
-          <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="45" />
-        </a>
-        <a href="https://www.jenkins.io/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
-          <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="45" />
-        </a>
-        <a href="https://www.docker.com/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
-          <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" />
-        </a>
-        <a href="https://kubernetes.io/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
-          <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="45" />
-        </a>
-        <a href="https://www.selenium.dev/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
-          <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="45" />
-        </a>
-      </div>
-    </td>
-  </tr>
 </table>
 
 ---
 
 🚀 **Featured Projects**
 <!-- Add your favorite projects below! Replace these placeholders with your own repositories. -->
-- [Project Name](#) — Short description about what it is and your role.
-- [Project Name](#) — Short description about what it is and your role.
+- [Portfolio](#) — Coming Soon.
 
 
 ---
@@ -152,21 +125,7 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
     <td align="center" width="200px">
       <img src="https://img.icons8.com/color/96/cyber-security.png" width="60"/><br>
       <b>OSCP</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200px">
-      <img src="https://img.icons8.com/color/96/cloud.png" width="60"/><br>
-      <b>AWS Certified</b>
-    </td>
-    <td align="center" width="200px">
-      <img src="https://img.icons8.com/color/96/shield.png" width="60"/><br>
-      <b>CISSP</b>
-    </td>
-    <td align="center" width="200px">
-      <img src="https://img.icons8.com/color/96/azure.png" width="60"/><br>
-      <b>Azure Security</b>
-    </td>
+    </td>>
   </tr>
 </table>
 
