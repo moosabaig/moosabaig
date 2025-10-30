@@ -83,19 +83,14 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
       </div>
     </td>
     <td align="center" width="50%">
-      <h3>☁️ Cloud / Platforms</h3>
-      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-        <a href="https://aws.amazon.com/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
-          <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="45" />
-        </a>
-        <a href="https://azure.microsoft.com/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
-          <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="45" />
-        </a>
-        <a href="https://cloud.google.com/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
-          <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="45" />
-        </a>
-      </div>
-    </td>
+     <h3>☁️ Cloud / Platforms</h3>
+<div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C95B56B0BEB58ADF98888B09283031F3C7E0AC26FEFEC028E7989408549399FC" target="_blank" 
+     style="width:80px; height:80px; display:flex; align-items:center; justify-content:center; border:2px solid #FF0000; border-radius:12px; box-shadow: 0px 4px 10px rgba(255,0,0,0.2);">
+    <img src="https://img.icons8.com/color/96/oracle-logo.png" alt="Oracle" width="55" />
+  </a>
+</div>
+  </td>
   </tr>
 </table>
 
