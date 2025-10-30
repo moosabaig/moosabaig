@@ -22,7 +22,6 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
 - Incident Response
 
 ---
-
 ## 🛡️ Cyber Operations Dashboard
 
 <p align="center">
@@ -31,70 +30,81 @@ Passionate about staying ahead of evolving threats, I am eager to leverage my sk
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <h3>🛠️ Tools</h3>
-      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-        <a href="https://www.vim.org/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
-          <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="45" />
+    <td align="center" colspan="2">
+      <h3>🧰 Web & Network Security Testing Tools</h3>
+      <p align="center">
+        <a href="https://portswigger.net/burp" target="_blank">
+          <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
         </a>
-        <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
-          <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="45" />
+        <a href="https://nmap.org/" target="_blank">
+          <img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Nmap"/>
         </a>
-        <a href="https://www.nginx.com/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
-          <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="45" />
+        <a href="https://www.metasploit.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Metasploit-purple?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
         </a>
-      </div>
+        <a href="https://www.zaproxy.org/" target="_blank">
+          <img src="https://img.shields.io/badge/OWASP%20ZAP-007ACC?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
+        </a>
+        <a href="https://www.tenable.com/products/nessus" target="_blank">
+          <img src="https://img.shields.io/badge/Nessus-00C58E?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus"/>
+        </a>
+        <a href="https://www.wireshark.org/" target="_blank">
+          <img src="https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+        </a>
+      </p>
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="50%">
       <h3>💻 Languages</h3>
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-        <a href="https://www.python.org/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+        <a href="https://www.python.org/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px;">
           <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" />
         </a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+        <a href="https://www.gnu.org/software/bash/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px;">
           <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="45" />
         </a>
-        <a href="https://en.cppreference.com/w/c/language" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+        <a href="https://en.cppreference.com/w/c/language" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px;">
           <img src="https://skillicons.dev/icons?i=c" alt="C" width="45" />
         </a>
       </div>
     </td>
-  </tr>
-  
-  <tr>
     <td align="center" width="50%">
       <h3>🖥️ Operating Systems</h3>
       <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-        <a href="https://www.linux.org/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+        <a href="https://www.linux.org/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px;">
           <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="45" />
         </a>
-        <a href="https://www.microsoft.com/en-us/windows/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+        <a href="https://www.microsoft.com/en-us/windows/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px;">
           <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="45" />
         </a>
-        <a href="https://ubuntu.com/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+        <a href="https://ubuntu.com/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px;">
           <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="45" />
         </a>
-        <a href="https://www.debian.org/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+        <a href="https://www.debian.org/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px;">
           <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="45" />
         </a>
-        <a href="https://www.kali.org/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+        <a href="https://www.kali.org/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px;">
           <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" width="45" />
         </a>
       </div>
     </td>
-    <td align="center" width="50%">
-     <h3>☁️ Cloud / Platforms</h3>
-<div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C95B56B0BEB58ADF98888B09283031F3C7E0AC26FEFEC028E7989408549399FC" target="_blank" 
-     style="width:80px; height:80px; display:flex; align-items:center; justify-content:center; border:2px solid #FF0000; border-radius:12px; box-shadow: 0px 4px 10px rgba(255,0,0,0.2);">
-    <img src="https://img.icons8.com/color/96/oracle-logo.png" alt="Oracle" width="55" />
-  </a>
-</div>
-  </td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="2">
+      <h3>☁️ Cloud / Platforms</h3>
+      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+        <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C95B56B0BEB58ADF98888B09283031F3C7E0AC26FEFEC028E7989408549399FC" target="_blank" 
+           style="width:80px; height:80px; display:flex; align-items:center; justify-content:center; border:2px solid #FF0000; border-radius:12px;">
+          <img src="https://img.icons8.com/color/96/oracle-logo.png" alt="Oracle" width="55" />
+        </a>
+      </div>
+    </td>
   </tr>
 </table>
 
----
 
 🚀 **Featured Projects**
 <!-- Add your favorite projects below! Replace these placeholders with your own repositories. -->
