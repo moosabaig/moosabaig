@@ -36,7 +36,7 @@ My work spans the full engagement lifecycle — scoping, testing, risk rating, r
 
 ---
 
-### Featured Project
+### Featured Projects
 
 #### [SBOM Security Dashboard](https://github.com/moosabaig/sbom-security-dashboard)
 
@@ -55,6 +55,36 @@ A self-hosted **Software Composition Analysis (SCA)** tool that scans projects f
 - **Three implementations** — Node.js, Python and Java, standard library only, sharing one spec and report format
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![CycloneDX](https://img.shields.io/badge/CycloneDX-1.5-1F2937?style=flat-square) ![OSV](https://img.shields.io/badge/OSV.dev-1F2937?style=flat-square) ![NVD](https://img.shields.io/badge/NVD-1F2937?style=flat-square)
+
+<br/>
+
+#### [Cybersecurity Portfolio](https://moosabaig.github.io/Portfolio/)
+
+<table>
+  <tr>
+    <td width="55%">
+      <a href="https://moosabaig.github.io/Portfolio/">
+        <img src="assets/portfolio-preview.png" alt="Moosa Baig — Cybersecurity Portfolio" width="100%"/>
+      </a>
+    </td>
+    <td width="45%">
+      My personal portfolio website — a single-page showcase of my experience, skills and security projects.
+      <br/><br/>
+      ▸ Responsive, dark-themed single-page design<br/>
+      ▸ Sections for About, Experience, Projects and Contact<br/>
+      ▸ Animated hero and loading screen<br/>
+      ▸ Automated build & deploy to GitHub Pages via GitHub Actions
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+      <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages"/>
+      <br/><br/>
+      <a href="https://moosabaig.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live%20Site-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Site"/></a>
+      <a href="https://github.com/moosabaig/Portfolio"><img src="https://img.shields.io/badge/Source-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
