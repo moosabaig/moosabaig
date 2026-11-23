@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://moosabaig.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-moosabaig.github.io-00B4D8?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/moosa-baig-868240273"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.credly.com/badges/2f877584-935b-415b-a8ca-72ea5a2ecc48/public_url"><img src="https://img.shields.io/badge/APIsec-Certified%20Practitioner-1F2937?style=flat-square" alt="APIsec Certified Practitioner"/></a>
   <a href="https://www.credly.com/badges/4ca64578-c964-4f33-a16b-61d4b9636c13/public_url"><img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional-1F2937?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate"/></a>
@@ -119,4 +120,9 @@ Scoping  →  Reconnaissance  →  Vulnerability Discovery  →  Exploitation & 
 ### Contact
 
 Open to opportunities in **penetration testing**, **application security** and **security consulting**.
-Reach me on [LinkedIn](https://www.linkedin.com/in/moosa-baig-868240273).
+Explore my work at **[moosabaig.github.io/Portfolio](https://moosabaig.github.io/Portfolio/)** or reach me on [LinkedIn](https://www.linkedin.com/in/moosa-baig-868240273).
+
+<p>
+  <a href="https://moosabaig.github.io/Portfolio/"><img src="https://img.shields.io/badge/View%20Portfolio-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/moosa-baig-868240273"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
