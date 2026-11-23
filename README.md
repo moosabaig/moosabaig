@@ -1,170 +1,139 @@
-# 👋 Hello, I’m Moosa Baig
----
-<!-- Banner -->
-## About me
-
-<p align="justify">
-I am a Cybersecurity Professional with more than one year of hands-on experience in Vulnerability Assessment and Penetration Testing (VAPT). Skilled in identifying and exploiting security flaws across web applications, networks, and infrastructure, I bring practical expertise in strengthening security postures and mitigating risks.  
-<br><br>
-I am proficient with industry-standard tools including Burp Suite, Nessus, Metasploit, and Nmap, and experienced in conducting risk assessments, developing remediation strategies, and documenting detailed test reports to support stakeholders in understanding and mitigating risks.  
-<br><br>
-Passionate about staying ahead of evolving threats, I am eager to leverage my skills and knowledge to enhance organizational security, safeguard sensitive assets, and contribute to a resilient cyber defense strategy. 
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B3D91,100:00B4D8&height=200&section=header&text=Moosa%20Baig&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20Professional%20%7C%20VAPT&descAlignY=60&descSize=18" alt="Moosa Baig — Cybersecurity Professional" width="100%"/>
 </p>
-
-
-
-🛠️ **Top Skills**
-- Vulnerability Testing
-- Penetration Testing
-- Cloud Security
-- Security Documentation
-- Risk Assessment & Mitigation
-- Incident Response
-
----
-## 🛡️ Cyber Operations Dashboard
 
 <p align="center">
-  <i>My toolkit for cyber operations, cloud, DevSecOps, and programming</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=620&lines=Vulnerability+Assessment+%26+Penetration+Testing;Web+Application+%26+API+Security;Network+%26+Infrastructure+Security;Risk+Assessment+%26+Remediation" alt="Typing SVG"/>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" colspan="2">
-      <h3>🧰 Web & Network Security Testing Tools</h3>
-      <p align="center">
-        <a href="https://portswigger.net/burp" target="_blank">
-          <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-        </a>
-        <a href="https://nmap.org/" target="_blank">
-          <img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Nmap"/>
-        </a>
-        <a href="https://www.metasploit.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Metasploit-purple?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-        </a>
-        <a href="https://www.zaproxy.org/" target="_blank">
-          <img src="https://img.shields.io/badge/OWASP%20ZAP-007ACC?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
-        </a>
-        <a href="https://www.tenable.com/products/nessus" target="_blank">
-          <img src="https://img.shields.io/badge/Nessus-00C58E?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus"/>
-        </a>
-        <a href="https://www.wireshark.org/" target="_blank">
-          <img src="https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-      <h3>💻 Languages</h3>
-      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-        <a href="https://www.python.org/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px;">
-          <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" />
-        </a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px;">
-          <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="45" />
-        </a>
-        <a href="https://en.cppreference.com/w/c/language" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px;">
-          <img src="https://skillicons.dev/icons?i=c" alt="C" width="45" />
-        </a>
-      </div>
-    </td>
-    <td align="center" width="50%">
-      <h3>🖥️ Operating Systems</h3>
-      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-        <a href="https://www.linux.org/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px;">
-          <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="45" />
-        </a>
-        <a href="https://www.microsoft.com/en-us/windows/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px;">
-          <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="45" />
-        </a>
-        <a href="https://ubuntu.com/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px;">
-          <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="45" />
-        </a>
-        <a href="https://www.debian.org/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px;">
-          <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="45" />
-        </a>
-        <a href="https://www.kali.org/" target="_blank" style="width:70px; height:70px; display:flex; align-items:center; justify-content:center; border:2px solid #00F7FF; border-radius:12px;">
-          <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" width="45" />
-        </a>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" colspan="2">
-      <h3>☁️ Cloud / Platforms</h3>
-      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-        <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C95B56B0BEB58ADF98888B09283031F3C7E0AC26FEFEC028E7989408549399FC" target="_blank" 
-           style="width:80px; height:80px; display:flex; align-items:center; justify-content:center; border:2px solid #FF0000; border-radius:12px;">
-          <img src="https://img.icons8.com/color/96/oracle-logo.png" alt="Oracle" width="55" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-
-🚀 **Featured Projects**
-<!-- Add your favorite projects below! Replace these placeholders with your own repositories. -->
-- [Portfolio](#) — Coming Soon.
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/moosa-baig-868240273"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.credly.com/badges/2f877584-935b-415b-a8ca-72ea5a2ecc48/public_url"><img src="https://img.shields.io/badge/APIsec-Certified%20Practitioner-FF6F00?style=flat-square" alt="APIsec Certified Practitioner"/></a>
+  <a href="https://www.credly.com/badges/4ca64578-c964-4f33-a16b-61d4b9636c13/public_url"><img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity Certificate"/></a>
+  <img src="https://komarev.com/ghpvc/?username=moosabaig&style=flat-square&color=0B3D91&label=Profile+Views" alt="Profile views"/>
+</p>
 
 ---
-<h2 align="center">
-  🎓 <a href="#" style="color: #00f7ff; text-decoration: none;">Certifications</a> 🎓
-</h2>
 
-<table align="center">
-<tr>
-    <td align="center" width="200px">
-      <img src="https://img.icons8.com/color/96/google-logo.png" width="60"/><br>
-      <b><a href="https://drive.google.com/file/d/1Ifkb7sKjSb-1ydCEwHqwqVN3Hk9_Dfey/view?usp=sharing" target="_blank">Google Cybersecurity</a></b>
-    </td>
-<td align="center" width="200px">
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C95B56B0BEB58ADF98888B09283031F3C7E0AC26FEFEC028E7989408549399FC" target="_blank">
-    <img src="https://img.icons8.com/color/96/oracle-logo.png" width="60"/><br>
-    <b>Oracle Cloud Infrastructure Foundations 2025</b>
-  </a>
-  </tr>
-</table>
+## About Me
+
+I am a **Cybersecurity Professional** specialising in **Vulnerability Assessment and Penetration Testing (VAPT)**. I identify and exploit security flaws across web applications, APIs, networks and infrastructure, then turn findings into clear, prioritised remediation guidance that engineering and leadership teams can act on.
+
+- 🔍 **Offensive testing** of web applications, APIs, networks and infrastructure
+- 📊 **Risk assessment** with severity-rated findings and practical remediation plans
+- 📝 **Security reporting** for both technical teams and business stakeholders
+- 🏁 **CTF player** — Hack The Box Cyber Apocalypse CTF 2025
+- 🌱 Currently growing in **cloud security** and **DevSecOps**
 
 ---
-<h2 align="center">
-  ✨ <a href="#" style="color: #00f7ff; text-decoration: none;">Milestones & Badges</a> ✨
-</h2>
 
-Here are some of my certifications and achievements:
+## Core Competencies
 
-<table align="center">
+| Area | Focus |
+|:--|:--|
+| **Penetration Testing** | Web apps, APIs, internal & external networks |
+| **Vulnerability Assessment** | Discovery, validation, false-positive triage, severity rating |
+| **Application Security** | OWASP Top 10, OWASP API Security Top 10 |
+| **Risk & Remediation** | Risk assessment, mitigation strategy, retesting |
+| **Documentation** | Executive summaries, technical reports, proof-of-concept write-ups |
+| **Incident Response** | Triage and analysis fundamentals |
+
+---
+
+## Toolkit
+
+**Security Testing**
+
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
+  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+</p>
+
+**Languages & Scripting**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+</p>
+
+**Operating Systems**
+
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+</p>
+
+**Cloud**
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"/>
+</p>
+
+---
+
+## Certifications & Achievements
+
+<table>
   <tr>
-    <td align="center">
+    <td align="center" width="25%">
       <a href="https://www.credly.com/badges/4ca64578-c964-4f33-a16b-61d4b9636c13/public_url">
-        <img src="https://raw.githubusercontent.com/moosabaig/Certificates/main/google-cybersecurity-professional-certificate-v2.png" width="100"/><br>
-        <b>Google Cybersecurity Professional Certificate</b>
+        <img src="https://raw.githubusercontent.com/moosabaig/Certificates/main/google-cybersecurity-professional-certificate-v2.png" width="100" alt="Google Cybersecurity Professional Certificate"/>
       </a>
+      <br/><b>Google Cybersecurity<br/>Professional Certificate</b>
+      <br/><sub>Google · Credly</sub>
     </td>
-    <td align="center">
+    <td align="center" width="25%">
       <a href="https://www.credly.com/badges/2f877584-935b-415b-a8ca-72ea5a2ecc48/public_url">
-        <img src="https://raw.githubusercontent.com/moosabaig/Certificates/ba946a3e7f37e5c9bc0fabc9e1e4c564c8204a46/apisec-certified-practitioner.png" width="100"/><br>
-        <b>APIsec Certified Practitioner</b>
+        <img src="https://raw.githubusercontent.com/moosabaig/Certificates/ba946a3e7f37e5c9bc0fabc9e1e4c564c8204a46/apisec-certified-practitioner.png" width="100" alt="APIsec Certified Practitioner"/>
       </a>
+      <br/><b>APIsec Certified<br/>Practitioner</b>
+      <br/><sub>APIsec University · Credly</sub>
     </td>
-    <td align="center">
-         <a href="https://drive.google.com/file/d/1GHRYNAuTg5X-r3YoyH5i_NaIu2LRzaPC/view?usp=sharing">
-        <img src="https://github.com/moosabaig/Documents/blob/a5bcd50f4b9f9c0cd1c038274ecd281dfc2ea8e7/Cyber%20Apocalypse%20CTF%202025.jpg" width="100"/><br>
-        <b>Hack The Box CTF 2025</b>
+    <td align="center" width="25%">
+      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C95B56B0BEB58ADF98888B09283031F3C7E0AC26FEFEC028E7989408549399FC">
+        <img src="https://img.icons8.com/color/96/oracle-logo.png" width="100" alt="Oracle Cloud Infrastructure Foundations 2025"/>
       </a>
+      <br/><b>Oracle Cloud Infrastructure<br/>Foundations 2025</b>
+      <br/><sub>Oracle</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="assets/htb-cyber-apocalypse-ctf-2025.pdf">
+        <img src="assets/htb-cyber-apocalypse-ctf-2025.jpg" width="140" alt="Hack The Box Cyber Apocalypse CTF 2025"/>
+      </a>
+      <br/><b>Cyber Apocalypse<br/>CTF 2025</b>
+      <br/><sub>Hack The Box</sub>
     </td>
   </tr>
 </table>
 
-🔗 **Connect with Me**
+---
+
+## GitHub Activity
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/moosa-baig-868240273" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=moosabaig&show_icons=true&hide_border=true&theme=github_dark&title_color=00B4D8&icon_color=00B4D8" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moosabaig&layout=compact&hide_border=true&theme=github_dark&title_color=00B4D8" height="165" alt="Top languages"/>
 </p>
 
-_Thanks for visiting my profile! Let's connect and collaborate on making the digital world safer._
+---
+
+## Let's Connect
+
+I'm open to opportunities and collaboration in **penetration testing**, **application security** and **security consulting**.
+
+<p>
+  <a href="https://www.linkedin.com/in/moosa-baig-868240273"><img src="https://img.shields.io/badge/LinkedIn-Moosa%20Baig-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0B3D91,100:0D1117&height=100&section=footer" width="100%" alt=""/>
+</p>
