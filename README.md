@@ -29,7 +29,7 @@ My work spans the full engagement lifecycle — scoping, testing, risk rating, r
 |:--|:--|
 | **Web Application Security** | Authentication & session management, access control, injection, business-logic flaws |
 | **API Security** | REST API testing, authorisation (BOLA / BFLA), data exposure, rate limiting |
-| **Network & Infrastructure** | Internal / external assessments, service enumeration, misconfiguration review |
+| **Network & Infrastructure** | Internal / external assessments, service enumeration, SSL/TLS configuration review, misconfiguration review |
 | **Vulnerability Management** | Scanning, validation, false-positive triage, risk-based prioritisation |
 | **Software Supply Chain** | SBOM generation (CycloneDX / SPDX), software composition analysis, license risk |
 | **Reporting & Advisory** | Executive summaries, technical findings, proof-of-concept evidence, remediation plans |
@@ -50,11 +50,32 @@ A self-hosted **Software Composition Analysis (SCA)** tool that scans projects f
 - **Vulnerability intelligence** — OSV.dev matching with NVD CVSS/CWE enrichment and deps.dev license data
 - **Risk scoring** — A–F risk grade per scan, severity trends and minimum fix-version upgrade guidance
 - **SBOM import & validation** — CycloneDX / SPDX uploads (Black Duck, Syft, Trivy, cdxgen) and OWASP Dependency-Check false-positive triage
+- **Scan history** — search, filter and sort every report, compare against the previous scan, bulk download and delete
+- **Modern dashboard** — KPIs, overall risk, severity trends, light and dark themes
 - **CI/CD gate** — `--fail-on <severity>` exit codes for GitHub Actions, Azure DevOps and Jenkins
 - **Secure by design** — localhost-only binding, DNS-rebinding protection and CSRF-safe API
 - **Three implementations** — Node.js, Python and Java, standard library only, sharing one spec and report format
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![CycloneDX](https://img.shields.io/badge/CycloneDX-1.5-1F2937?style=flat-square) ![OSV](https://img.shields.io/badge/OSV.dev-1F2937?style=flat-square) ![NVD](https://img.shields.io/badge/NVD-1F2937?style=flat-square)
+
+<br/>
+
+#### [Netra — Network & SSL/TLS Scanner](https://github.com/moosabaig/Netra)
+
+A local **network scanner with a web UI** that combines fast multi-threaded port scanning with in-depth **SSL/TLS assessment** — protocols, cipher suites, certificate trust and known TLS vulnerabilities — exportable as CSV, JSON or a PDF report.
+
+<a href="https://github.com/moosabaig/Netra">
+  <img src="https://raw.githubusercontent.com/moosabaig/Netra/HEAD/docs/screenshots/ssl-overview.png" alt="Netra SSL/TLS scan" width="100%"/>
+</a>
+
+- **Port scanning** — multi-threaded TCP connect scans across multiple hosts, with live results and one-click SSL scan per open port
+- **Three SSL/TLS engines** — sslscan, testssl.sh (A–F grade, 20 CVE-mapped checks incl. Heartbleed, ROBOT, POODLE, DROWN, LOGJAM) or a built-in Python scanner
+- **Unified report** — findings by severity, protocol support, accepted ciphers, certificate details and chain/hostname trust
+- **Reporting** — export to CSV, JSON or PDF
+- **Multiple interfaces** — web UI, CLI and Tkinter desktop GUI
+- **Secure by default** — web server binds to `127.0.0.1` only
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![sslscan](https://img.shields.io/badge/sslscan-1F2937?style=flat-square) ![testssl.sh](https://img.shields.io/badge/testssl.sh-1F2937?style=flat-square) ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)
 
 <br/>
 
@@ -72,6 +93,7 @@ A self-hosted **Software Composition Analysis (SCA)** tool that scans projects f
       <br/><br/>
       ▸ Responsive, dark-themed single-page design<br/>
       ▸ Sections for About, Experience, Projects and Contact<br/>
+      ▸ Features SBOM Security Dashboard and Netra projects<br/>
       ▸ Animated hero and loading screen<br/>
       ▸ Automated build & deploy to GitHub Pages via GitHub Actions
       <br/><br/>
